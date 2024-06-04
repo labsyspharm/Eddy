@@ -1,6 +1,7 @@
 # Eddy
 The marker localization mapper and mask merger of the quantification folder (MCMICRO)
 
+[Developing version]
 
 python eddy.py -h
 
